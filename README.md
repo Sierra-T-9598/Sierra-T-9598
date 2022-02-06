@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sierra Tucker</h1>
+<h1 align="center">Hi 👋, I'm Sierra Tucker (She/Her)</h1>
 <h3 align="center">Communicative, adventurous back-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sierra-t-9598&label=Profile%20views&color=0e75b6&style=flat" alt="sierra-t-9598" /> </p>
+
 
 - 🧩 I’m currently working on projects like [**Viewing Pary Lite**](https://github.com/Sierra-T-9598/viewing_party_lite) with the [Turing School of Software and Design](https://turing.edu/)
 
