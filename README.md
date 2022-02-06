@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sierra Tucker</h1>
-<h3 align="center">A communicative, adventurous backend developer</h3>
+<h3 align="center">Communicative, adventurous back-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sierra-t-9598&label=Profile%20views&color=0e75b6&style=flat" alt="sierra-t-9598" /> </p>
 
@@ -26,6 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sierra-t-9598&show_icons=true&locale=en" alt="sierra-t-9598" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sierra-t-9598&" alt="sierra-t-9598" /></p>
+
+![](https://media.giphy.com/media/hVIHwjueZTZc1P7rVo/giphy.gif)
 
 
 <!--
