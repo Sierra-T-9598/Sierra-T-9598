@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sierra-t-9598&label=Profile%20views&color=0e75b6&style=flat" alt="sierra-t-9598" /> </p>
 
-- 🧩 I’m currently working on **Viewing Pary Lite**
+- 🧩 I’m currently working on projects like [**Viewing Pary Lite**](https://github.com/Sierra-T-9598/viewing_party_lite) with the [Turing School of Software and Design](https://turing.edu/)
 
 - 🌱 I’m currently learning **Ruby, rails, JSON API, PostgreSQL, SQL, and more!**
 
