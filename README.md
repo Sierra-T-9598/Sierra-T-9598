@@ -6,7 +6,7 @@
 
 - 🧩 I’m currently working on projects like [**Viewing Pary Lite**](https://github.com/Sierra-T-9598/viewing_party_lite) with the [Turing School of Software and Design](https://turing.edu/)
 
-- 🌱 I’m currently learning **Ruby, rails, JSON API, PostgreSQL, SQL, and more!**
+- 🌱 I’m learning **Ruby, rails, JSON API, PostgreSQL, SQL, and more!**
 
 - 📫 Reach me at **sierra.tucker121@gmail.com**
 
