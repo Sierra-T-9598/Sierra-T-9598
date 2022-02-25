@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences through [My Current Resume](https://docs.google.com/document/d/1A4FOWQyuQKmIul14QIblaEhVdQCyqeH8Cw-JMbShufk)
 
-- 🏔 Ask me about **Sleeping in hammock in the wilderness, through the Montana winter!**
+- 🏔 Ask me about **Sleeping in a hammock in the wilderness, through the Montana winter!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
