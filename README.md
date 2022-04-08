@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sierra-t-9598&label=Profile%20views&color=0e75b6&style=flat" alt="sierra-t-9598" /> </p>
 
 
-- 🧩 I’m currently working on projects like [**Viewing Pary Lite**](https://github.com/Sierra-T-9598/viewing_party_lite) with the [Turing School of Software and Design](https://turing.edu/)
+- 🧩 Check out my capstone project [**Troubadour**](https://troubadour-fe.herokuapp.com/) with the [Turing School of Software and Design](https://turing.edu/)
 
 - 🌱 I’m working with **Ruby, Rails, JSON API, PostgreSQL, SQL, and more!** and currently learning **GraphQL**
 
