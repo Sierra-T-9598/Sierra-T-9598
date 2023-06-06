@@ -24,7 +24,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sierra-t-9598&show_icons=true&locale=en&layout=compact" alt="sierra-t-9598" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sierra-t-9598&" alt="sierra-t-9598" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sierra-t-9598&" alt="sierra-t-9598" /></p>
 
 ![](https://media.giphy.com/media/hVIHwjueZTZc1P7rVo/giphy.gif)
 
